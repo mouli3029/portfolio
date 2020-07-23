@@ -1,3 +1,3 @@
 # protfolio
 
-##Protfolio using React and Firebase
+## Protfolio using React and Firebase
