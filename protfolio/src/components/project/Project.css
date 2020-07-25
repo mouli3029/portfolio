@@ -1,0 +1,9 @@
+.project__title{
+    font-weight: 300;
+    font-size: 3.5rem;
+    color: darkblue;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    font-family: 'Karla' sans-serif;
+}

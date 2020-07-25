@@ -1,0 +1,18 @@
+.skills__title{
+    font-weight: 450;
+    font-size: 3.5rem;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    font-family: 'Karla' sans-serif;
+}
+.skills{
+    background-color: #23ACE9;
+}
+@media (max-width:1300){
+    .it{
+        float: right;
+    }
+
+}
